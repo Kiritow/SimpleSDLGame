@@ -1,2 +1,5 @@
-# SimpleSDLGame
-This will be a simple game using SDL2.
+# Simple SDL Game
+这将会是一个使用SDL2的简单的小游戏！  
+
+PS: 我保证这是区域赛之前挖的最后一个坑！  
+大坑万火留，区域赛之后慢慢填= =  
