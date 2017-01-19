@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1484796243 source:d:\codeblocks_codes\smallwardemo20170119_sdl\app.cpp
+	"App.h"
+	"Game/Main.h"
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\app.h
+	"mini_engine.h"
+
+1483783217 d:\codeblocks_codes\smallwardemo20170119_sdl\mini_engine.h
+	"config.h"
+	"InitManager.h"
+	"MiniEngine/Widget.h"
+	"App.h"
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\config.h
+	"basic_config.h"
+	"sdl_engine.h"
+
+1483792624 d:\codeblocks_codes\smallwardemo20170119_sdl\basic_config.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+
+1484797724 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine.h
+	"basic_config.h"
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\initmanager.h
+	"config.h"
+	<vector>
+
+1484797332 d:\codeblocks_codes\smallwardemo20170119_sdl\miniengine\widget.h
+	"../config.h"
+	<string>
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\basic_config.cpp
+	"basic_config.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\config.cpp
+	"config.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\initmanager.cpp
+	"InitManager.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\main.cpp
+	"config.h"
+	"App.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\mini_engine.cpp
+	"mini_engine.h"
+
+1484634165 source:d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine.cpp
+	"sdl_engine.h"
+	"unistd.h"
+	<memory>
+	"sdl_engine_rect.hpp"
+	"sdl_engine_window.hpp"
+	"sdl_engine_renderer.hpp"
+	"sdl_engine_surface.hpp"
+	"sdl_engine_texture.hpp"
+	"sdl_engine_rgba.hpp"
+	"sdl_engine_font.hpp"
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine_rect.hpp
+
+1483838677 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine_window.hpp
+
+1484797820 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine_renderer.hpp
+
+1483773666 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine_surface.hpp
+
+1483774424 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine_texture.hpp
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine_rgba.hpp
+
+1483782580 d:\codeblocks_codes\smallwardemo20170119_sdl\sdl_engine_font.hpp
+
+1484639155 source:d:\codeblocks_codes\smallwardemo20170119_sdl\miniengine\event.cpp
+
+1484797736 source:d:\codeblocks_codes\smallwardemo20170119_sdl\miniengine\widget.cpp
+	"Widget.h"
+	"widget_brush.hpp"
+
+1484783246 d:\codeblocks_codes\smallwardemo20170119_sdl\miniengine\widget_brush.hpp
+
+1484808087 source:d:\codeblocks_codes\smallwardemo20170119_sdl\game\main.cpp
+	"Main.h"
+	<ctime>
+	"resource_def.h"
+
+1484808243 d:\codeblocks_codes\smallwardemo20170119_sdl\game\main.h
+	"../local/mini_engine.h"
+
+1483783217 d:\publicshared\mini_engine.h
+	"config.h"
+	"InitManager.h"
+	"MiniEngine/Widget.h"
+	"App.h"
+
+1483754089 d:\publicshared\config.h
+	"basic_config.h"
+	"sdl_engine.h"
+
+1483792624 d:\publicshared\basic_config.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+
+1484797724 d:\publicshared\sdl_engine.h
+	"basic_config.h"
+
+1483754089 d:\publicshared\initmanager.h
+	"config.h"
+	<vector>
+
+1484797332 d:\publicshared\miniengine\widget.h
+	"../config.h"
+	<string>
+
+1483754089 d:\publicshared\app.h
+	"mini_engine.h"
+
+1484798184 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\app.cpp
+	"App.h"
+	"../Game/Main.h"
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\local\app.h
+	"mini_engine.h"
+
+1483783217 d:\codeblocks_codes\smallwardemo20170119_sdl\local\mini_engine.h
+	"config.h"
+	"InitManager.h"
+	"MiniEngine/Widget.h"
+	"App.h"
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\local\config.h
+	"basic_config.h"
+	"sdl_engine.h"
+
+1483792624 d:\codeblocks_codes\smallwardemo20170119_sdl\local\basic_config.h
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"SDL2/SDL.h"
+	"SDL2/SDL_ttf.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+
+1484808260 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine.h
+	"basic_config.h"
+	<string>
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\local\initmanager.h
+	"config.h"
+	<vector>
+
+1484797332 d:\codeblocks_codes\smallwardemo20170119_sdl\local\miniengine\widget.h
+	"../config.h"
+	<string>
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\basic_config.cpp
+	"basic_config.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\config.cpp
+	"config.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\initmanager.cpp
+	"InitManager.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\main.cpp
+	"config.h"
+	"App.h"
+
+1483754089 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\mini_engine.cpp
+	"mini_engine.h"
+
+1484639155 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\miniengine\event.cpp
+
+1484798817 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\miniengine\widget.cpp
+	"Widget.h"
+	"widget_brush.hpp"
+
+1484783246 d:\codeblocks_codes\smallwardemo20170119_sdl\local\miniengine\widget_brush.hpp
+
+1484634165 source:d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine.cpp
+	"sdl_engine.h"
+	"unistd.h"
+	<memory>
+	"sdl_engine_rect.hpp"
+	"sdl_engine_window.hpp"
+	"sdl_engine_renderer.hpp"
+	"sdl_engine_surface.hpp"
+	"sdl_engine_texture.hpp"
+	"sdl_engine_rgba.hpp"
+	"sdl_engine_font.hpp"
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine_rect.hpp
+
+1484808175 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine_window.hpp
+
+1484797820 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine_renderer.hpp
+
+1483773666 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine_surface.hpp
+
+1483774424 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine_texture.hpp
+
+1483754089 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine_rgba.hpp
+
+1483782580 d:\codeblocks_codes\smallwardemo20170119_sdl\local\sdl_engine_font.hpp
+
+1484808310 d:\codeblocks_codes\smallwardemo20170119_sdl\game\resource_def.h
+
